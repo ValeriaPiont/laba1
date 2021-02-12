@@ -1,2 +1,2 @@
 String 1 in file2 (branch master)
-String 2 in file2 
+String 2 in file2 (branch Piont)
