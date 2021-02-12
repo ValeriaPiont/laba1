@@ -1,1 +1,1 @@
-String 1 in file 2(branch master)
+String 1 in file2 (branch master)
