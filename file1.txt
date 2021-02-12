@@ -1,1 +1,1 @@
-String 1 int file1 (branch master)
+String 1 in file1 (branch master)
